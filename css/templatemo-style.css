@@ -838,6 +838,68 @@ body {
 
     */
 
+.left-text2 {
+
+  position: absolute;
+
+  margin-top: 20%;
+
+  background-color: #fff;
+
+
+}
+
+
+
+.left-text2 h2 {
+
+  margin-right: 30px;
+
+  margin-left: 30px;
+
+  padding-top: 10px;
+
+  padding-bottom: 15px;
+
+  font-size: 20px;
+
+  color: #1e1e1e;
+
+  font-weight: 700;
+
+}
+
+
+
+.left-text2 .line {
+
+  margin-left: 30px;
+
+  width: 180px;
+
+  height: 2px;
+
+  background-color: #ddd;
+
+}
+
+
+
+.left-text2 p {
+
+  margin: 30px;
+
+}
+
+
+
+.left-text2 .button {
+
+  margin: 30px;
+
+  padding-bottom: 30px;
+
+}
 
 
 /*Fourth Section*/
@@ -1750,6 +1812,11 @@ footer {
 
 .transparency {
     background-color: rgba(200,140,30,0.7);
+    padding: 20px;
+    }
+
+.transparency2 {
+    background-color: rgba(96,11,11,0.7);
     padding: 20px;
     }
 
