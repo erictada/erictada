@@ -2117,6 +2117,10 @@ footer {
 @media (max-width: 991px) { 
 
 
+.bg__stgallen{
+    height: 100%
+}
+
 .templatemo-flexbox {
 
   height: 70%;
@@ -2163,6 +2167,10 @@ footer {
 
 @media (max-width: 767px) {
 
+    
+.bg__stgallen{
+    height: 100%
+}
 
 .templatemo-flexbox {
 
@@ -2301,6 +2309,11 @@ footer {
   height: 70%;
 
 }
+
+
+.bg__stgallen{
+    height: 100%
+}
 .bg__first {
     
   background-image: url(
@@ -2332,6 +2345,11 @@ footer {
   height: 70%;
 
 }
+
+
+.bg__stgallen{
+    height: 100%
+}
 .bg__first {
     
   background-image: url(
@@ -2362,7 +2380,9 @@ footer {
   height: 70%;
 
 }
-
+.bg__stgallen{
+    height: 100%
+}
  .bg__first {
      
   background-image: url(
